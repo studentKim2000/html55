@@ -66,12 +66,3 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
-
-.center_div 
-{
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-  width: 50vw;  
-  align-items: center;    
-}
